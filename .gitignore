@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+user_uploads/
+static/reels/
+done.txt
+.vscode/
+node_modules/
+
