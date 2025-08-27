@@ -77,7 +77,7 @@ ffmpeg -version
 
 Create a .env file in the project root:
 
-ELEVEN_API_KEY="sk_af3202683bd1e920aec007330c1c33729042f4e7ede74aec"
+ELEVEN_API_KEY="your_api_key_here"
 
 
 Load it in text_to_audio.py (example):
